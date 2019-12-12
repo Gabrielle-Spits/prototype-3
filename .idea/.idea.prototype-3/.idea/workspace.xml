@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9873a2b9-56e6-488e-8344-4a9ff21e2d3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.prototype-3/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.prototype-3/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.prototype-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.prototype-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/PolygonPrototype_Texture_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 3.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scrpts/playercontroler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scrpts/playercontroler.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +33,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Course Library/_Source_Files/_LICENSE.txt.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scrpts/RepeatBackground.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scrpts/moveleft.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scrpts/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,6 +47,9 @@
         <option value="$PROJECT_DIR$/Assets/scrpts/SpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/scrpts/moveleft.cs" />
         <option value="$PROJECT_DIR$/Assets/scrpts/playercontroler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/PlayerControllerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/SpawnManagerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 3/Scripts/MoveLeftX.cs" />
       </list>
     </option>
   </component>
@@ -103,6 +111,10 @@
       <workItem from="1575269326992" duration="3383000" />
       <workItem from="1575275616263" duration="926000" />
       <workItem from="1575278862804" duration="8263000" />
+      <workItem from="1576030450016" duration="906000" />
+      <workItem from="1576031767480" duration="1076000" />
+      <workItem from="1576142685387" duration="390000" />
+      <workItem from="1576143700197" duration="1003000" />
     </task>
     <servers />
   </component>
@@ -116,7 +128,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
